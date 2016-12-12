@@ -207,7 +207,7 @@ public class BackgroundSlider : MonoBehaviour
             FaderCG.alpha += Time.deltaTime * 0.25f;
             if (FaderCG.alpha > 0.99f)
             {
-                SceneManager.LoadScene("Play");
+                SceneManager.LoadScene("Cell Block");
             }
         }
 

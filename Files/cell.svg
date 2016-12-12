@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="cell.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4600">
+      <stop
+         style="stop-color:#393939;stop-opacity:1"
+         offset="0"
+         id="stop4602" />
+      <stop
+         style="stop-color:#484848;stop-opacity:1"
+         offset="1"
+         id="stop4604" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4592">
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1;"
+         offset="0"
+         id="stop4594" />
+      <stop
+         style="stop-color:#424242;stop-opacity:1"
+         offset="1"
+         id="stop4596" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4584">
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1;"
+         offset="0"
+         id="stop4586" />
+      <stop
+         style="stop-color:#3a3a3a;stop-opacity:1"
+         offset="1"
+         id="stop4588" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4576">
+      <stop
+         style="stop-color:#6e6e6e;stop-opacity:1"
+         offset="0"
+         id="stop4578" />
+      <stop
+         style="stop-color:#484848;stop-opacity:1"
+         offset="1"
+         id="stop4580" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4553">
+      <stop
+         style="stop-color:#7d7d7d;stop-opacity:1"
+         offset="0"
+         id="stop4555" />
+      <stop
+         style="stop-color:#535353;stop-opacity:1"
+         offset="1"
+         id="stop4557" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4532"
+       inkscape:collect="always">
+      <stop
+         id="stop4534"
+         offset="0"
+         style="stop-color:#4e4e4e;stop-opacity:1" />
+      <stop
+         id="stop4538"
+         offset="1"
+         style="stop-color:#434343;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4522">
+      <stop
+         style="stop-color:#484848;stop-opacity:1"
+         offset="0"
+         id="stop4524" />
+      <stop
+         style="stop-color:#444444;stop-opacity:1"
+         offset="1"
+         id="stop4526" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4508">
+      <stop
+         style="stop-color:#e6e8b8;stop-opacity:1"
+         offset="0"
+         id="stop4510" />
+      <stop
+         id="stop4516"
+         offset="0.30000001"
+         style="stop-color:#e5e8a7;stop-opacity:0.34509805" />
+      <stop
+         style="stop-color:#ececec;stop-opacity:0"
+         offset="1"
+         id="stop4512" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4498">
+      <stop
+         style="stop-color:#a3b3b3;stop-opacity:1"
+         offset="0"
+         id="stop4500" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1"
+         id="stop4502" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4488"
+       inkscape:collect="always">
+      <stop
+         id="stop4490"
+         offset="0"
+         style="stop-color:#323232;stop-opacity:1" />
+      <stop
+         id="stop4492"
+         offset="1"
+         style="stop-color:#4d4d4d;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4454">
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1;"
+         offset="0"
+         id="stop4456" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:0;"
+         offset="1"
+         id="stop4458" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4454"
+       id="radialGradient4462"
+       cx="969.75537"
+       cy="734.89508"
+       fx="969.75537"
+       fy="734.89508"
+       r="273.51379"
+       gradientTransform="matrix(5.7868867e-4,0.15426084,-0.77050903,0.00298364,1578.1075,299.5335)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4488"
+       id="radialGradient4462-1"
+       cx="842.00116"
+       cy="738.07666"
+       fx="842.00116"
+       fy="738.07666"
+       r="273.51379"
+       gradientTransform="matrix(-0.00126793,0.35171332,0.77050903,0.00299012,407.55047,-717.11627)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4498"
+       id="radialGradient4504"
+       cx="354.28571"
+       cy="91.259003"
+       fx="354.28571"
+       fy="91.259003"
+       r="171.72594"
+       gradientTransform="matrix(0.00155632,0.27865057,-0.88906602,0.00289877,437.16266,-35.552822)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4508"
+       id="radialGradient4514"
+       cx="584.62579"
+       cy="351.31635"
+       fx="584.62579"
+       fy="351.31635"
+       r="56.568542"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.61830203,0.61830475,-0.63504778,0.63504794,446.25314,-8.5043385)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4522"
+       id="radialGradient4528"
+       cx="550.71429"
+       cy="350.7081"
+       fx="550.71429"
+       fy="350.7081"
+       r="41.75"
+       gradientTransform="matrix(0,2.9811804,-1.5945219,0,1246.2966,-1034.4563)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4532"
+       id="radialGradient4530"
+       cx="601.40668"
+       cy="411.68088"
+       fx="601.40668"
+       fy="411.68088"
+       r="16.75"
+       gradientTransform="matrix(-0.85287838,1.0447765,-0.67142861,-0.54810397,1513.4795,286.95217)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4553"
+       id="linearGradient4569"
+       gradientUnits="userSpaceOnUse"
+       x1="251.90678"
+       y1="435.28528"
+       x2="244.33064"
+       y2="455.74084"
+       gradientTransform="translate(90.551953,90.551953)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4553"
+       id="linearGradient4571"
+       gradientUnits="userSpaceOnUse"
+       x1="251.90678"
+       y1="435.28528"
+       x2="244.33064"
+       y2="455.74084"
+       gradientTransform="translate(0,128.28937)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4576"
+       id="radialGradient4582"
+       cx="276.65549"
+       cy="352.89484"
+       fx="276.65549"
+       fy="352.89484"
+       r="83.757187"
+       gradientTransform="matrix(-7.0358569e-4,0.1809059,-0.77520863,-0.00301494,550.41728,498.93263)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4584"
+       id="radialGradient4590"
+       cx="198.43184"
+       cy="401.41107"
+       fx="198.43184"
+       fy="401.41107"
+       r="19.426952"
+       gradientTransform="matrix(0.00247668,0.32187243,-1.3411904,0.01037133,736.30906,473.25524)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4592"
+       id="radialGradient4598"
+       cx="388.88394"
+       cy="418.14172"
+       fx="388.88394"
+       fy="418.14172"
+       r="13.568849"
+       gradientTransform="matrix(7.137208e-6,0.46061323,-1.4545629,3.4956796e-7,997.0946,368.60443)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4600"
+       id="radialGradient4606"
+       cx="388.59305"
+       cy="433.8624"
+       fx="388.59305"
+       fy="433.8624"
+       r="11.10227"
+       gradientTransform="matrix(0,2.0187555,-1.1709317,0,896.61628,-229.42291)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="389.90688"
+     inkscape:cy="500.99195"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4136"
+       width="558.57141"
+       height="323.99857"
+       x="96.933655"
+       y="175.34561" />
+    <rect
+       style="fill:url(#radialGradient4462);fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4452"
+       width="546.02759"
+       height="53.825245"
+       x="740.9541"
+       y="441.06671"
+       inkscape:export-filename="C:\Users\conta\Desktop\floor light.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <rect
+       style="fill:url(#radialGradient4462-1);fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4452-5"
+       width="546.02759"
+       height="146.20526"
+       x="706.14246"
+       y="-428.28101"
+       transform="scale(1,-1)"
+       inkscape:export-filename="C:\Users\conta\Desktop\wall reflection.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <path
+       style="fill:url(#radialGradient4606);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 381.25,578.13145 14.82143,0 3.15673,-25 -21.07175,0 z"
+       id="rect4447"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\conta\Desktop\bucket.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <rect
+       style="fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4445"
+       width="76.403938"
+       height="126.46777"
+       x="681.7843"
+       y="607.79572"
+       inkscape:export-filename="C:\Users\conta\Desktop\door.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1.0000031;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4138-3"
+       width="4.2930136"
+       height="28.824469"
+       x="535.39197"
+       y="255.49846"
+       transform="matrix(0.70583687,0.70837441,-0.70583687,0.70837441,0,0)"
+       inkscape:export-filename="C:\Users\conta\Desktop\bed.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <rect
+       style="fill:url(#linearGradient4569);fill-opacity:1;stroke:#000000;stroke-width:1.0000031;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4138-3-0"
+       width="4.2930136"
+       height="28.824469"
+       x="175.31123"
+       y="615.57916"
+       transform="matrix(-0.70583687,0.70837441,0.70583687,0.70837441,0,0)"
+       inkscape:export-filename="C:\Users\conta\Desktop\bed.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <rect
+       style="fill:url(#linearGradient4571);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4138-5"
+       width="169.54454"
+       height="2.0720675"
+       x="169.45531"
+       y="563.09442"
+       inkscape:export-filename="C:\Users\conta\Desktop\bed.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <path
+       style="fill:url(#radialGradient4528);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 680.55614,604.82319 c -1.32911,0 -2.40039,1.06933 -2.40039,2.39844 l 0,127.34375 c 0,1.3291 1.07128,2.40039 2.40039,2.40039 l 77.70117,0 c 1.32911,0 2.39844,-1.07129 2.39844,-2.40039 l 0,-127.34375 c 0,-1.32911 -1.06933,-2.39844 -2.39844,-2.39844 l -77.70117,0 z m 29.38672,18.36914 21.42773,0 0,18.43945 -21.42773,0 0,-18.43945 z m -5.53711,61.27344 32.5,0 0,28.03515 -32.5,0 0,-28.03515 z"
+       id="rect4187"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\conta\Desktop\door.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <rect
+       style="fill:url(#radialGradient4530);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4189"
+       width="32.5"
+       height="28.035715"
+       x="704.40631"
+       y="684.46527"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="C:\Users\conta\Desktop\door.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <rect
+       style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4206"
+       width="2.9673231"
+       height="18.309015"
+       x="713.29401"
+       y="623.23676"
+       inkscape:export-filename="C:\Users\conta\Desktop\door.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <rect
+       style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4206-9"
+       width="2.9673231"
+       height="18.309015"
+       x="719.35492"
+       y="623.23676"
+       inkscape:export-filename="C:\Users\conta\Desktop\door.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <rect
+       style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4206-9-9"
+       width="2.9673231"
+       height="18.309015"
+       x="725.41583"
+       y="623.23676"
+       inkscape:export-filename="C:\Users\conta\Desktop\door.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <circle
+       style="fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4240"
+       cx="681.59381"
+       cy="732.54559"
+       r="1.1160715"
+       inkscape:export-filename="C:\Users\conta\Desktop\door.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <circle
+       style="fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4240-8"
+       cx="681.59381"
+       cy="718.97418"
+       r="1.1160715"
+       inkscape:export-filename="C:\Users\conta\Desktop\door.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <circle
+       style="fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4240-8-5"
+       cx="681.59381"
+       cy="705.40271"
+       r="1.1160715"
+       inkscape:export-filename="C:\Users\conta\Desktop\door.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <circle
+       style="fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4240-8-9"
+       cx="681.59381"
+       cy="691.742"
+       r="1.1160715"
+       inkscape:export-filename="C:\Users\conta\Desktop\door.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <circle
+       style="fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4240-8-5-3"
+       cx="681.59381"
+       cy="678.17059"
+       r="1.1160715"
+       inkscape:export-filename="C:\Users\conta\Desktop\door.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <circle
+       style="fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4240-8-1"
+       cx="681.59381"
+       cy="664.64691"
+       r="1.1160715"
+       inkscape:export-filename="C:\Users\conta\Desktop\door.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <circle
+       style="fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4240-8-5-8"
+       cx="681.59381"
+       cy="651.07544"
+       r="1.1160715"
+       inkscape:export-filename="C:\Users\conta\Desktop\door.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <circle
+       style="fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4240-8-9-1"
+       cx="681.59381"
+       cy="637.41473"
+       r="1.1160715"
+       inkscape:export-filename="C:\Users\conta\Desktop\door.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <circle
+       style="fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4240-8-5-3-0"
+       cx="681.59381"
+       cy="623.84332"
+       r="1.1160715"
+       inkscape:export-filename="C:\Users\conta\Desktop\door.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <circle
+       style="fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4240-8-5-3-0-6"
+       cx="681.59381"
+       cy="610.24957"
+       r="1.1160715"
+       inkscape:export-filename="C:\Users\conta\Desktop\door.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <circle
+       style="fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4240-6"
+       cx="756.86169"
+       cy="732.54559"
+       r="1.1160715"
+       inkscape:export-filename="C:\Users\conta\Desktop\door.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <circle
+       style="fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4240-8-2"
+       cx="756.86169"
+       cy="718.97418"
+       r="1.1160715"
+       inkscape:export-filename="C:\Users\conta\Desktop\door.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <circle
+       style="fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4240-8-5-5"
+       cx="756.86169"
+       cy="705.40271"
+       r="1.1160715"
+       inkscape:export-filename="C:\Users\conta\Desktop\door.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <circle
+       style="fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4240-8-9-8"
+       cx="756.86169"
+       cy="691.742"
+       r="1.1160715"
+       inkscape:export-filename="C:\Users\conta\Desktop\door.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <circle
+       style="fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4240-8-5-3-5"
+       cx="756.86169"
+       cy="678.17059"
+       r="1.1160715"
+       inkscape:export-filename="C:\Users\conta\Desktop\door.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <circle
+       style="fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4240-8-1-2"
+       cx="756.86169"
+       cy="664.64691"
+       r="1.1160715"
+       inkscape:export-filename="C:\Users\conta\Desktop\door.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <circle
+       style="fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4240-8-5-8-6"
+       cx="756.86169"
+       cy="651.07544"
+       r="1.1160715"
+       inkscape:export-filename="C:\Users\conta\Desktop\door.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <circle
+       style="fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4240-8-9-1-7"
+       cx="756.86169"
+       cy="637.41473"
+       r="1.1160715"
+       inkscape:export-filename="C:\Users\conta\Desktop\door.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <circle
+       style="fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4240-8-5-3-0-2"
+       cx="756.86169"
+       cy="623.84332"
+       r="1.1160715"
+       inkscape:export-filename="C:\Users\conta\Desktop\door.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <circle
+       style="fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4240-8-5-3-0-6-6"
+       cx="756.86169"
+       cy="610.24957"
+       r="1.1160715"
+       inkscape:export-filename="C:\Users\conta\Desktop\door.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4426"
+       width="12.410714"
+       height="3.2142856"
+       x="738.42419"
+       y="671.34027"
+       rx="0.37880722"
+       ry="0.37880722"
+       inkscape:export-filename="C:\Users\conta\Desktop\door.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <rect
+       style="fill:url(#radialGradient4598);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4450"
+       width="26.137697"
+       height="7.1342025"
+       x="375.77673"
+       y="547.0965"
+       rx="1.8940358"
+       ry="1.8940359"
+       inkscape:export-filename="C:\Users\conta\Desktop\bucket.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <rect
+       style="fill:url(#radialGradient4504);fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4496"
+       width="449.51788"
+       height="78.286819"
+       x="141.77849"
+       y="60.782589"
+       inkscape:export-filename="C:\Users\conta\Desktop\eye of god.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <circle
+       style="fill:url(#radialGradient4514);fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4506"
+       cx="586.14099"
+       cy="577.59045"
+       r="56.568542"
+       inkscape:export-filename="C:\Users\conta\Desktop\door flare.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <rect
+       style="fill:url(#radialGradient4582);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4138"
+       width="166.51437"
+       height="15.974037"
+       x="170.9704"
+       y="547.45471"
+       rx="2.9041886"
+       ry="2.9041886"
+       inkscape:export-filename="C:\Users\conta\Desktop\bed.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <rect
+       style="fill:url(#radialGradient4590);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4185"
+       width="37.853905"
+       height="6.540966"
+       x="174.72003"
+       y="540.80829"
+       rx="2.399106"
+       ry="2.399106"
+       inkscape:export-filename="C:\Users\conta\Desktop\bed.png"
+       inkscape:export-xdpi="678.68262"
+       inkscape:export-ydpi="678.68262" />
+    <path
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 451.6279,608.5327 5.36231,0 c 1.62533,0 2.93381,1.30848 2.93381,2.93381 l 0,36.96251 c 0,1.62533 -1.30898,2.89368 -2.93381,2.93382 l -4.99232,0.12335 c -1.62483,0.0402 -6.26371,-0.44519 -6.26371,-2.07052 0,0 2.93541,-2.82848 2.97366,-5.53945 0.072,-5.10536 0.14782,-13.2931 -0.0138,-18.06656 -0.24739,-7.30819 -2.52825,-16.71108 -2.52825,-16.71108 l 2.65158,1.01133 c 1.51861,0.5792 1.18516,-1.5772 2.81049,-1.5772 z"
+       id="rect4608-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssssssssscss" />
+    <path
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 467.66066,608.5327 5.36231,0 c 1.62534,0 4.62889,0.0209 4.47543,1.63885 0,0 -1.42462,9.50349 -1.54161,16.25473 -0.0753,4.34531 -0.0537,12.21193 -0.0287,17.26694 0.0138,2.79888 2.24865,5.84576 2.24865,5.84576 0,1.62533 -3.5284,1.82386 -5.15374,1.82386 l -5.36231,0 c -1.62533,0 -2.93381,-1.30849 -2.93381,-2.93382 l 0,-36.96251 c 0,-1.62533 1.30848,-2.93381 2.93381,-2.93381 z"
+       id="rect4608-0-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssssss" />
+    <ellipse
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4640"
+       cx="461.6138"
+       cy="550.51727"
+       rx="8.9413471"
+       ry="10.297966" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4608-0-1-1"
+       width="8.4393206"
+       height="42.830135"
+       x="227.87761"
+       y="695.71991"
+       rx="2.204767"
+       ry="2.9338133"
+       transform="matrix(0.92818742,-0.37211305,0.37211305,0.92818742,0,0)" />
+    <path
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 452.1407,556.40089 19.48597,0.24665 c 7.10515,0.0899 9.17713,6.12336 9.49631,10.92509 l 2.34326,35.25114 c 0.33347,5.01656 -5.72291,9.26086 -12.82621,9.07515 l -1.84175,-0.20171 -3.71689,3.92417 c 0,0 -0.97469,-2.90539 -2.93599,-2.89302 -1.96129,0.0124 -2.35248,2.88167 -2.35248,2.88167 l -4.96255,-4.12443 -3.05966,-0.08 c -7.10329,-0.18571 -10.04029,-2.94057 -9.86632,-7.96519 l 1.23328,-35.62113 c 0.17398,-5.02462 1.89787,-11.50833 9.00303,-11.4184 z"
+       id="rect4608"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssssscczccssss" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4608-0-1-1-5"
+       width="8.4393206"
+       height="42.830135"
+       x="-629.90662"
+       y="351.8317"
+       rx="2.204767"
+       ry="2.9338133"
+       transform="matrix(-0.92818742,-0.37211305,-0.37211305,0.92818742,0,0)" />
+  </g>
+</svg>
